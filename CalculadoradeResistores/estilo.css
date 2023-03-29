@@ -1,0 +1,48 @@
+#resultado{
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border-radius: 8px;
+    border: solid 2px #7d9ba3d1;
+}
+
+.val{
+    color: #ffffff;
+}
+#Color1{
+    width: 200px;
+    height: 140px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: solid 2px #18e4e4;
+}
+#Color2{
+    width: 200px;
+    height: 140px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: solid 2px #18e4e4;
+}
+#Color3{
+    width: 200px;
+    height: 140px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: solid 2px #18e4e4;
+}
+#Color4{
+    width: 200px;
+    height: 140px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: solid 2px #18e4e4;
+}
+form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.bloco{
+    display: flex;
+    flex-direction: column;
+}
